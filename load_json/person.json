@@ -1,0 +1,30 @@
+[
+    {
+        "name" : "Sayan Nath",
+        "age" : "19",
+        "height" :"174",
+        "gender" : "male",
+        "hair_color" : "black" 
+    },
+    {
+        "name" : "Abhinav Prakash",
+        "age" : "20",
+        "height" :"176",
+        "gender" : "male",
+        "hair_color" : "golden" 
+    },
+    {
+        "name" : "Taranpreet Singh",
+        "age" : "18",
+        "height" :"177",
+        "gender" : "male",
+        "hair_color" : "brown" 
+    },
+    {
+        "name" : "Sambit Kumar Majhee",
+        "age" : "17",
+        "height" :"172",
+        "gender" : "male",
+        "hair_color" : "white" 
+    }
+]
